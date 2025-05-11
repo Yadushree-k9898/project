@@ -8,7 +8,7 @@ const Projects = () => {
       title: "BlogVerse",
       description: "Blog App",
       tags: ["React", "Firebase", "MUI", "Bootstrap"],
-      image: "/public/images/blogverse.png",
+      image: "/images/blogverse.png",
       link: "https://github.com/Yadushree-k9898/myBlog-app",
       hostedLink: "https://my-blog-app-delta-orcin.vercel.app"
     },
@@ -16,7 +16,7 @@ const Projects = () => {
       title: "MoneyMinder",
       description: "Personal Finance App",
       tags: ["React", "Firebase", "TailwindCSS"],
-      image: "/public/images/finance.png",
+      image: "/images/finance.png",
       link: "https://github.com/Yadushree-k9898/PersonalFinanceTracker",
       hostedLink: "https://personal-finance-tracker-tau-virid.vercel.app"
     },
@@ -24,7 +24,7 @@ const Projects = () => {
       title: "Google Docs 2.0",
       description: "Google Docs Clone",
       tags: ["React", "TailwindCSS"],
-      image: "/public/images/gogle.png",
+      image: "/images/gogle.png",
       link: "https://github.com/Yadushree-k9898/GoogleDocsClone",
       hostedLink: "https://googledocs2.example.com"
     },
@@ -32,7 +32,7 @@ const Projects = () => {
       title: "Password Generator",
       description: "Password Generator App",
       tags: ["JavaScript", "CSS", "HTML"],
-      image: "/public/images/password-generator.png",
+      image: "/images/password-generator.png",
       link: "https://github.com/Yadushree-k9898/Password_Generator",
       hostedLink: "https://mellifluous-cascaron-b228be.netlify.app"
     },
@@ -40,7 +40,7 @@ const Projects = () => {
       title: "Creator Dashboard",
       description: "Creator Dashboard App",
       tags: ["MERN", "Redux"],
-      image: "/public/images/credora.png",
+      image: "/images/credora.png",
       link: "https://github.com/Yadushree-k9898/creator-dashboard.git",
       hostedLink: "https://creator-dashboard-z28s.vercel.app/"
     },
@@ -48,7 +48,7 @@ const Projects = () => {
       title: "Voice Notes",
       description: "Voice Notes App",
       tags: ["React", "WebSpeechAPI", "IndexedDB", "MERN"],
-      image: "/public/images/voice-notes.png",
+      image: "/images/voice-notes.png",
       link: "https://github.com/Yadushree-k9898/IdeaLog.git",
       hostedLink: "https://idea-log-45xd.vercel.app"
     }

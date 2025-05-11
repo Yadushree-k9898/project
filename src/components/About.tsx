@@ -19,7 +19,7 @@ const About = () => {
             <div className="relative">
               <div className="w-full h-64 md:h-96 rounded-lg overflow-hidden">
                 <img 
-                  src="/public/images/another.png" 
+                  src="/images/another.png" 
                   alt="About Yadushree K" 
                   className="w-full h-full object-cover object-center" 
                 />

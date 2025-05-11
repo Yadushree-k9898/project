@@ -101,7 +101,7 @@ const Hero = () => {
                 <div className="w-full h-full rounded-full bg-gray-50 dark:bg-gray-950 p-4">
                   <div className="w-full h-full rounded-full overflow-hidden">
                     <img 
-                      src="/public/images/hero-img.webp" 
+                      src="/images/hero-img.webp" 
                       alt="Yadushree K" 
                       className="w-full h-full object-cover" 
                     />
